@@ -1,0 +1,40 @@
+/* Universal Styles */
+html {
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("./pattern.jpeg");
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+/* Universal Styles END */
+
+/* IDs */
+#brush-headline {
+  background-color: mediumspringgreen;
+}
+
+#frame-headline {
+  background-color: lightcoral;
+}
+
+#paint-headline {
+  background-color: skyblue;
+}
+/* IDs END */
+
+/* Classes */
+.price {
+  font-weight: bold;
+  color: blue;
+}
+/* Classes END */
